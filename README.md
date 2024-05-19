@@ -1,7 +1,5 @@
 # Ceasar Cypher in Python
 
-<img src="images/frontend_ceaser_cypher.png">
-
 ## Introduction
 
 This repository is for experiencing how ceasar cyphter works.
@@ -17,3 +15,5 @@ streamlit run cesar_cyphter.py
 ```
 
 If my code was helpful, please don't forget to give this repository a star! 🌟🌟🌟
+
+<img src="images/frontend_ceaser_cypher.png" alt="frontend_ceasar_cypher">
