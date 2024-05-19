@@ -4,7 +4,7 @@
 
 This repository is for experiencing how ceasar cyphter works.
 <br>
-The code is directly hosted on the streamlit. So, if you want to experience on web, please access directly from this [streamlit app].(https://caesercypher.streamlit.app/)
+The code is directly hosted on the streamlit. So, if you want to experience on web, please access directly from this [streamlit app](https://caesercypher.streamlit.app/).
 
 ## Accessing with Code
 
